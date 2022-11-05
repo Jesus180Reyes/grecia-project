@@ -13,8 +13,8 @@ export const CustomTable = () => {
                             <th scope="col"><i className="fa-light fa-file"></i>Orden Trabajo</th>
                             <th scope="col"><i className="fa-solid fa-building"></i>Actividad</th>
                             <th scope="col"><i className="fa-solid fa-user"></i>Responsable</th>
-                            <th scope="col"><i className="fa-light fa-calendar"></i>Fecha Progra</th>
-                            <th scope="col"><i className="fa-regular fa-clock"></i>Horas Progra</th>
+                            <th scope="col"><i className="fa-light fa-calendar"></i>Fecha Programada</th>
+                            <th scope="col"><i className="fa-regular fa-clock"></i>Horas Programada</th>
                             <th scope="col"><i className="fa-regular fa-clock"></i>Horas Inicio</th>
                             <th scope="col"><i className="fa-solid fa-turn-up"></i>Turno</th>
                             <th scope="col"><i className="fa-solid fa-circle-check"></i>Validacion</th>
